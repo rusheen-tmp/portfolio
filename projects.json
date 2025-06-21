@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Kafka\u2019s Castle",
+    "mode": "creative",
+    "description": "Surreal browser\u2011based puzzle game.",
+    "url": "#"
+  },
+  {
+    "name": "Teal Threads UI Library",
+    "mode": "creative",
+    "description": "Tailwind & Vue component set.",
+    "url": "#"
+  },
+  {
+    "name": "Accessibility Audits \u2013 Shopify",
+    "mode": "professional",
+    "description": "Contrast & keyboard testing.",
+    "url": "#"
+  },
+  {
+    "name": "Bug Hunt PDF Suite",
+    "mode": "professional",
+    "description": "QA template pack.",
+    "url": "#"
+  }
+]
